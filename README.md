@@ -1,6 +1,4 @@
-# galaxyCard
-
-# assumptions
+# shopping Cart -API
 
 1. 4 database schema for :-categories, orders,carts,products
 2. category api operation :- CRED operation
